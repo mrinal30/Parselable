@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ParcelableProject</string>
+    <string name="str_btn_ok" />
+    <string name="str_hnt_scourse" />
+    <string name="str_hnt_saddress" />
+    <string name="str_hnt_sage" />
+    <string name="str_hnt_sname" />
+</resources>
